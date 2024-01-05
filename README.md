@@ -14,7 +14,7 @@
 ### Project Entity Relationship Diagram Chart
   <img src="images/ALIEXPRESS ERD.jpg" alt="AliExpress ERD" width="500"/>
 
-#### Project Tools and Technologies
+### Project Tools and Technologies
   - ### Data Extraction:
     *  Python libraries
        * Requests for sending and receiving  HTTP requests. 
