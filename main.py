@@ -10,8 +10,8 @@ from write_json_data import write_json_data
 
 def main():
     """
-    This function executes the other functions and regulate
-    the whole program
+    This function executes the other
+    functions and regulate the whole program
     """
     params = {
         'database': 'AliExpress',
