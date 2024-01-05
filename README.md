@@ -1,4 +1,5 @@
-## Project Title - AliExpress Data Extraction and ETL Pipeline
+## Project Title - Building ETL Data Pipeline for Laptop Product at AliExpress website
+  ### Author - Benjamin Yankey 
   ### Project Description: 
   Embark on a challenging journey with this project, where I was tasked to tackle the extraction of a substantial and diverse dataset from the AliExpress website and its API. The primary focus revolves around addressing complexities, variabilities, and ethical considerations associated with efficient and accurate data scraping. Furthermore, I aim to transform the extracted data into a structured format conducive to thorough analysis. The core objective is the development of a reliable, scalable pipeline that supports routine data updates and maintenance. 
   Key tasks include 
