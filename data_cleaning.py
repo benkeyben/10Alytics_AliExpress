@@ -3,8 +3,10 @@ import logging
 
 def data_cleaning(params):
     """
-    This function cleans and organizes data in dataframes and write them to csv files. 
-    If an error occurs while processing the data, the function logs the error message
+    This function cleans and organizes data in
+    dataframes and write them to csv files. 
+    If an error occurs while processing the data, 
+    the function logs the error message
     """
     if type(params[0]) == str:
         try:
