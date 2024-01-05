@@ -4,8 +4,8 @@ import logging
 def write_json_data(params, data):
     """
     This function writes json data to a specific file. 
-    If an error occurs while writing the data, the function 
-    logs the error message
+    If an error occurs while writing the data, 
+    the function logs the error message
     """
     filename = params['filenames'][0]
     try:
