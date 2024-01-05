@@ -3,8 +3,9 @@ import logging
 
 def insert_data(params, conn, sql_stmt_list):
     """
-    This function loads the data in csv files into their repective tables in
-    the database postgres. It accepts a list of csv files, connection object
+    This function loads the data in csv files into 
+    their respective tables in the database postgres. 
+    It accepts a list of csv files, connection object
     and sql statement parameters
     """
     sql_stmt = sql_stmt_list[1]
