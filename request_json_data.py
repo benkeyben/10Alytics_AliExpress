@@ -3,8 +3,9 @@ import logging
 
 def request_json_data(params):
     """
-    This function retrieves json data from the specified URL. 
-    If an error occurs while retrieving the data, the function 
+    This function retrieves json data from 
+    the specified URL. If an error occurs while
+    retrieving the data, the function 
     logs the error message
     """
     url = params['urls'][0]
