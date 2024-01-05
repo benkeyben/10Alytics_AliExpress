@@ -2,10 +2,11 @@ from bs4 import BeautifulSoup
 
 def parser_html(response, tag, attribute):
     """
-    This function parses the HTML content of the response 
-    and returns a list of text data for the specified HTML 
-    tag and class attribute. If an error occurs while parsing 
-    the HTML content, the function logs the error message. 
+    This function parses the HTML content of the 
+    response and returns a list of text data for 
+    the specified HTML tag and class attribute. 
+    If an error occurs while parsing the HTML 
+    content, the function logs the error message. 
     """
     if response is None:
         return None
