@@ -26,7 +26,7 @@ def main():
                     "https://www.aliexpress.com/w/wholesale-laptop.html?g=y&SearchText=laptop"
         ],
         'headers': {
-            "X-RapidAPI-Key": "664a752285msh4ae3ff3d99b12a1p13a3e9jsn5dbb9e535753",
+            "X-RapidAPI-Key": "evebndjdudbevst12fbeh53749gshsjbbsn_wbw",
             "X-RapidAPI-Host": "ali-express1.p.rapidapi.com"
         },
         'webpages': {
