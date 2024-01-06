@@ -1,4 +1,4 @@
-## Project Title - Building ETL Data Pipeline for Laptop data at AliExpress website
+## Project Title - Building and managing ETL Data Pipeline for Laptop data at AliExpress website
   ### Author - Benjamin Yankey 
   
   ### Project Description: 
