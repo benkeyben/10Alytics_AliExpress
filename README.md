@@ -1,7 +1,6 @@
 # Project Title - Building and managing ETL aata pipeline for laptop data
-  ### Author - Benjamin Yankey 
   
-  ### Project Description: 
+  ## Project Description: 
   Embark on a challenging journey with this project, where I was tasked to tackle the extraction of a substantial and diverse dataset from the AliExpress website and its API. The primary focus revolves around addressing complexities, variabilities, and ethical considerations associated with efficient and accurate data scraping. Furthermore, I aim to transform the extracted data into a structured format conducive to thorough analysis. The core objective is the development of a reliable, scalable pipeline that supports routine data updates and maintenance. 
   Key tasks include 
   - scraping data without disrupting the website's operations.
@@ -10,13 +9,13 @@
   - loading the refined data into a PostgreSQL database, ensuring adherence to data security and governance standards.
   This project aims to create a scalable and maintainable system capable of accommodating future changes in data sources and structures.
 
-### Project Workflow Chart
+## Project Workflow Chart
   <img src="images/ALiExpress_Flow_Chart.jpg" alt="AliExpress flow chart" width="500"/>
 
-### Project Entity Relationship Diagram Chart
+## Project Entity Relationship Diagram Chart
   <img src="images/ALIEXPRESS ERD.jpg" alt="AliExpress ERD" width="500"/>
 
-### Project Tools and Technologies
+## Project Tools and Technologies
   - ### Data Extraction:
     *  Python libraries
        * Requests for sending and receiving  HTTP requests. 
@@ -39,11 +38,11 @@
     
   - ### Data Sources:
     * AliExpress API and AliExpress website, which provide a rich source of e-commerce data.
-### Project Challenges
+## Project Challenges
   - Error Handling and Logging: I encounted diverse error types such as data inconsistencies and format discrepancies.
   - Handling Schema Changes: Changes in source data schemas or unexpected changes in data formats can result in errors during the ETL process.
   - Testing: This was time consumming as I had to test individual components of the ETL process, such as functions or methods responsible for extraction, transformation, and loading.
-### Project Recommendation
+## Project Recommendation
   - Handling Error Handling and Logging:
     * Centralized Logging: Implement a centralized logging system that captures logs from different components of your ETL process.
       This makes it easier to trace and troubleshoot errors.
